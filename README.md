@@ -1,6 +1,4 @@
-<h3 align="center">Hi 👋, I'm Isa  <img src="https://komarev.com/ghpvc/?username=isabelle-prates&label=Profile%20views&color=0e75b6&style=flat" alt="isabelle-prates"/> </h3>
-
-___
+<h3>Hi 👋, I'm Isa  <img src="https://komarev.com/ghpvc/?username=isabelle-prates&label=Profile%20views&color=0e75b6&style=flat" alt="isabelle-prates"/> </h3>
 
 - Fullstack web-development Intern at @Samplemed. Technique in Systems development, Student of Information systems.
 - 👨‍💻 All of my personal projects are available at [https://github.com/izzerodrigues](https://github.com/izzerodrigues)
