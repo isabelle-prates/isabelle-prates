@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isabelle-prates&label=Profile%20views&color=0e75b6&style=flat" alt="isabelle-prates" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isabelle-prates" alt="isabelle-prates" /></a> </p>
-
 - 👨‍💻 All of my personal projects are available at [https://github.com/izzerodrigues](https://github.com/izzerodrigues)
 
 - 📫 How to reach me **isap4350@gmail.com**
