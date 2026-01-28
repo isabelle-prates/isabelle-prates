@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Isabelle</h1>
-<h3 align="center">Fullstack web-development Intern. Technique in Systems development, Student of Information systems.</h3>
+<h3 align="center">Hi 👋, I'm Isa  <img src="https://komarev.com/ghpvc/?username=isabelle-prates&label=Profile%20views&color=0e75b6&style=flat" alt="isabelle-prates"/> </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isabelle-prates&label=Profile%20views&color=0e75b6&style=flat" alt="isabelle-prates" /> </p>
+___
 
+- Fullstack web-development Intern at @Samplemed. Technique in Systems development, Student of Information systems.
 - 👨‍💻 All of my personal projects are available at [https://github.com/izzerodrigues](https://github.com/izzerodrigues)
-
 - 📫 How to reach me **isap4350@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/isabelle rodrigues](https://www.linkedin.com/in/isabelle-rodrigues-aa1801226/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isabelle rodrigues" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/isabelle-rodrigues-aa1801226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isabelle rodrigues" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isabelle-prates&show_icons=true&locale=en&layout=compact" alt="isabelle-prates" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isabelle-prates&show_icons=true&locale=en" alt="isabelle-prates" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isabelle-prates&" alt="isabelle-prates" /></p>
